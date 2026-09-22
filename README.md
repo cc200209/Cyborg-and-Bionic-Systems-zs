@@ -11,8 +11,8 @@ associated with the paper, to support reproducibility and reuse of the device.
 
 | File | Description |
 |------|-------------|
-| `2.4G射频模块.epro2` | PCB design project for the 2.4 GHz RF module (EasyEDA Pro format) |
-| `主控模块pcb.epro2` | PCB design project for the main control module (EasyEDA Pro format) |
+| `RF_Module_2.4G.epro2` | PCB design project for the 2.4 GHz RF module (EasyEDA Pro format) |
+| `Main_Control_PCB.epro2` | PCB design project for the main control module (EasyEDA Pro format) |
 | `Fig6_Example_Dataset.zip` | Example dataset underlying Figure 6 of the paper |
 
 ## Hardware Design Files
